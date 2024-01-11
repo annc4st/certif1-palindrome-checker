@@ -5,7 +5,6 @@ const userResult = document.getElementById("user-result");
 
 
 const isPalindrome = (str) => {
-    console.log("line 9>> ",str)
     let result;
 
     if (str.length <1) {
